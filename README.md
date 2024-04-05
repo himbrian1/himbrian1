@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"> Im Brian </h2>
  <div align="center">
-  <a href="https://readme-typing-svg.demolab.com?
-font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines= lets be friends please" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=lines= +lets be friends please" alt="Typing SVG" /></a>
   </p>
-  
   
